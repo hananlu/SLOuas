@@ -10,3 +10,5 @@ Jika dilakukan dengan fitur yang optimal (menggunakan pilihan fitur yang memilik
 # Naufal Hanan Lutfianto - 2101201030
 
 # Gregorius Pradana Satriawan - 2101201041
+
+# Dokumentasi Penjelasan via Video Youtube : https://youtu.be/sxu6sAYJvVQ
